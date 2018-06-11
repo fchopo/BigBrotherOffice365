@@ -1,0 +1,24 @@
+﻿@model BigBrotherO365.Data.TenantToken
+
+@if (Model != null)
+{
+<div class="row">
+    <div class="col-md-12">
+        <h2>Welcome to Big Brother Web Application</h2>
+        <h4>Your Tenant Information is:</h4>
+        <ul>
+            <li>Name: @Model.name </li>
+            <li>UPN: @Model.upn</li>
+            <li>Tenant ID: @Model.tid</li>
+            <li>IP Address: @Model.ipaddr</li>
+        </ul>
+    </div>
+</div>
+}
+else
+{
+    <div class="row">
+        <div class="alert alert-danger">No tenant selected!</div>
+    </div>
+
+}

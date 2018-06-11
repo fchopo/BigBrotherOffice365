@@ -1,0 +1,18 @@
+﻿<h2>Start Subscription</h2>
+
+<form method="post" class="form-horizontal">
+    <div class="form-group">
+        <select name="id" class="form-control">
+            <option value="Audit.General">Audit.General</option>
+            <option value="Audit.Sharepoint">Audit.Sharepoint</option>
+            <option value="Audit.AzureActiveDirectory">Audit.AzureActiveDirectory</option>
+            <option value="Audit.Exchange">Audit.Exchange</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <button type="submit" asp-page-handler="Index" class="btn btn-info">
+            Proceed
+        </button>
+    </div>
+</form>
+

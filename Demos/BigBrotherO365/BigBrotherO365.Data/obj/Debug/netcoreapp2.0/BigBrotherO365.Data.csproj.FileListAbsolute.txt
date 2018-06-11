@@ -1,0 +1,8 @@
+c:\users\ferranchopogarcia\documents\visual studio 2017\Projects\BigBrotherO365\BigBrotherO365.Data\bin\Debug\netcoreapp2.0\BigBrotherO365.Data.deps.json
+c:\users\ferranchopogarcia\documents\visual studio 2017\Projects\BigBrotherO365\BigBrotherO365.Data\bin\Debug\netcoreapp2.0\BigBrotherO365.Data.dll
+c:\users\ferranchopogarcia\documents\visual studio 2017\Projects\BigBrotherO365\BigBrotherO365.Data\bin\Debug\netcoreapp2.0\BigBrotherO365.Data.pdb
+c:\users\ferranchopogarcia\documents\visual studio 2017\Projects\BigBrotherO365\BigBrotherO365.Data\obj\Debug\netcoreapp2.0\BigBrotherO365.Data.csproj.CoreCompileInputs.cache
+c:\users\ferranchopogarcia\documents\visual studio 2017\Projects\BigBrotherO365\BigBrotherO365.Data\obj\Debug\netcoreapp2.0\BigBrotherO365.Data.AssemblyInfoInputs.cache
+c:\users\ferranchopogarcia\documents\visual studio 2017\Projects\BigBrotherO365\BigBrotherO365.Data\obj\Debug\netcoreapp2.0\BigBrotherO365.Data.AssemblyInfo.cs
+c:\users\ferranchopogarcia\documents\visual studio 2017\Projects\BigBrotherO365\BigBrotherO365.Data\obj\Debug\netcoreapp2.0\BigBrotherO365.Data.dll
+c:\users\ferranchopogarcia\documents\visual studio 2017\Projects\BigBrotherO365\BigBrotherO365.Data\obj\Debug\netcoreapp2.0\BigBrotherO365.Data.pdb

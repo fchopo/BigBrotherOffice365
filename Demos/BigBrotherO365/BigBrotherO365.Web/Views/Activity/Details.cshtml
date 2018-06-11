@@ -1,0 +1,96 @@
+﻿@model IEnumerable<BigBrotherO365.Data.ActivityDetail>
+
+
+<h2>Activity Details</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.CreationTime)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Id)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Operation)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.UserKey)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ClientIP)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ObjectId)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.UserId)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.EventSource)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ItemType)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.UserAgent)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.SourceFileExtension)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.SiteUrl)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.SourceFileName)
+                </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreationTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Operation)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserKey)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ClientIP)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ObjectId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserId)
+            </td>
+            
+            <td>
+                @Html.DisplayFor(modelItem => item.EventSource)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ItemType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserAgent)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SourceFileExtension)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SiteUrl)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SourceFileName)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

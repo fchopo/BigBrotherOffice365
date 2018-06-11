@@ -1,0 +1,12 @@
+C:\Users\FerranChopoGarcia\Documents\Visual Studio 2017\Projects\BigBrotherO365\BigBrotherO365.Service\bin\Release\netcoreapp2.0\BigBrotherO365.Service.deps.json
+C:\Users\FerranChopoGarcia\Documents\Visual Studio 2017\Projects\BigBrotherO365\BigBrotherO365.Service\bin\Release\netcoreapp2.0\BigBrotherO365.Service.dll
+C:\Users\FerranChopoGarcia\Documents\Visual Studio 2017\Projects\BigBrotherO365\BigBrotherO365.Service\bin\Release\netcoreapp2.0\BigBrotherO365.Service.pdb
+C:\Users\FerranChopoGarcia\Documents\Visual Studio 2017\Projects\BigBrotherO365\BigBrotherO365.Service\bin\Release\netcoreapp2.0\BigBrotherO365.Data.dll
+C:\Users\FerranChopoGarcia\Documents\Visual Studio 2017\Projects\BigBrotherO365\BigBrotherO365.Service\bin\Release\netcoreapp2.0\BigBrotherO365.Data.pdb
+C:\Users\FerranChopoGarcia\Documents\Visual Studio 2017\Projects\BigBrotherO365\BigBrotherO365.Service\obj\Release\netcoreapp2.0\BigBrotherO365.Service.csprojResolveAssemblyReference.cache
+C:\Users\FerranChopoGarcia\Documents\Visual Studio 2017\Projects\BigBrotherO365\BigBrotherO365.Service\obj\Release\netcoreapp2.0\BigBrotherO365.Service.csproj.CoreCompileInputs.cache
+C:\Users\FerranChopoGarcia\Documents\Visual Studio 2017\Projects\BigBrotherO365\BigBrotherO365.Service\obj\Release\netcoreapp2.0\BigBrotherO365.Service.AssemblyInfoInputs.cache
+C:\Users\FerranChopoGarcia\Documents\Visual Studio 2017\Projects\BigBrotherO365\BigBrotherO365.Service\obj\Release\netcoreapp2.0\BigBrotherO365.Service.AssemblyInfo.cs
+C:\Users\FerranChopoGarcia\Documents\Visual Studio 2017\Projects\BigBrotherO365\BigBrotherO365.Service\obj\Release\netcoreapp2.0\BigBrotherO365.Service.csproj.CopyComplete
+C:\Users\FerranChopoGarcia\Documents\Visual Studio 2017\Projects\BigBrotherO365\BigBrotherO365.Service\obj\Release\netcoreapp2.0\BigBrotherO365.Service.dll
+C:\Users\FerranChopoGarcia\Documents\Visual Studio 2017\Projects\BigBrotherO365\BigBrotherO365.Service\obj\Release\netcoreapp2.0\BigBrotherO365.Service.pdb

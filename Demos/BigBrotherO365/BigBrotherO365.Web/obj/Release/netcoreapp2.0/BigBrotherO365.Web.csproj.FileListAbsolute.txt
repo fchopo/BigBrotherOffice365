@@ -1,0 +1,16 @@
+C:\Users\FerranChopoGarcia\Documents\Visual Studio 2017\Projects\BigBrotherO365\BigBrotherO365.Web\bin\Release\netcoreapp2.0\BigBrotherO365.Web.deps.json
+C:\Users\FerranChopoGarcia\Documents\Visual Studio 2017\Projects\BigBrotherO365\BigBrotherO365.Web\bin\Release\netcoreapp2.0\BigBrotherO365.Web.runtimeconfig.json
+C:\Users\FerranChopoGarcia\Documents\Visual Studio 2017\Projects\BigBrotherO365\BigBrotherO365.Web\bin\Release\netcoreapp2.0\BigBrotherO365.Web.runtimeconfig.dev.json
+C:\Users\FerranChopoGarcia\Documents\Visual Studio 2017\Projects\BigBrotherO365\BigBrotherO365.Web\bin\Release\netcoreapp2.0\BigBrotherO365.Web.dll
+C:\Users\FerranChopoGarcia\Documents\Visual Studio 2017\Projects\BigBrotherO365\BigBrotherO365.Web\bin\Release\netcoreapp2.0\BigBrotherO365.Web.pdb
+C:\Users\FerranChopoGarcia\Documents\Visual Studio 2017\Projects\BigBrotherO365\BigBrotherO365.Web\bin\Release\netcoreapp2.0\BigBrotherO365.Data.dll
+C:\Users\FerranChopoGarcia\Documents\Visual Studio 2017\Projects\BigBrotherO365\BigBrotherO365.Web\bin\Release\netcoreapp2.0\BigBrotherO365.Service.dll
+C:\Users\FerranChopoGarcia\Documents\Visual Studio 2017\Projects\BigBrotherO365\BigBrotherO365.Web\bin\Release\netcoreapp2.0\BigBrotherO365.Data.pdb
+C:\Users\FerranChopoGarcia\Documents\Visual Studio 2017\Projects\BigBrotherO365\BigBrotherO365.Web\bin\Release\netcoreapp2.0\BigBrotherO365.Service.pdb
+C:\Users\FerranChopoGarcia\Documents\Visual Studio 2017\Projects\BigBrotherO365\BigBrotherO365.Web\obj\Release\netcoreapp2.0\BigBrotherO365.Web.csprojResolveAssemblyReference.cache
+C:\Users\FerranChopoGarcia\Documents\Visual Studio 2017\Projects\BigBrotherO365\BigBrotherO365.Web\obj\Release\netcoreapp2.0\BigBrotherO365.Web.csproj.CoreCompileInputs.cache
+C:\Users\FerranChopoGarcia\Documents\Visual Studio 2017\Projects\BigBrotherO365\BigBrotherO365.Web\obj\Release\netcoreapp2.0\BigBrotherO365.Web.AssemblyInfoInputs.cache
+C:\Users\FerranChopoGarcia\Documents\Visual Studio 2017\Projects\BigBrotherO365\BigBrotherO365.Web\obj\Release\netcoreapp2.0\BigBrotherO365.Web.AssemblyInfo.cs
+C:\Users\FerranChopoGarcia\Documents\Visual Studio 2017\Projects\BigBrotherO365\BigBrotherO365.Web\obj\Release\netcoreapp2.0\BigBrotherO365.Web.csproj.CopyComplete
+C:\Users\FerranChopoGarcia\Documents\Visual Studio 2017\Projects\BigBrotherO365\BigBrotherO365.Web\obj\Release\netcoreapp2.0\BigBrotherO365.Web.dll
+C:\Users\FerranChopoGarcia\Documents\Visual Studio 2017\Projects\BigBrotherO365\BigBrotherO365.Web\obj\Release\netcoreapp2.0\BigBrotherO365.Web.pdb

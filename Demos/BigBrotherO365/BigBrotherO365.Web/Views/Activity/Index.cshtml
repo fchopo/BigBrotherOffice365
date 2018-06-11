@@ -1,0 +1,50 @@
+﻿@model IEnumerable<BigBrotherO365.Data.ActivityContent>
+
+<h2>Content Activities</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.contentUri)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.contentId)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.contentType)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.contentCreated)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.contentExpiration)
+                </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.contentUri)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.contentId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.contentType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.contentCreated)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.contentExpiration)
+            </td>
+            <td>
+                @Html.ActionLink("Details", "Details", new {  id=item.contentId  })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
